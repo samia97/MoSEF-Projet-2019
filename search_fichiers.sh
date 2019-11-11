@@ -8,4 +8,6 @@ echo "Quel répertoire vous interesse?"
 
 read directory 
 
+ls $directory/$1
+
 
