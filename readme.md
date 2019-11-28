@@ -7,6 +7,8 @@ Aprés avoir poussé les modifications dans le dépot distant ,on a édité le s
 Dans notre exemple on s'est mis sur home/sorbonne et cherché les fichiers qui finissent par(*txt).
 On a ajouté une autre condition dans notre script , pour améliorer notre filtre , qui va nous afficher uniquement les fichiers qui contiennent un 2ème pattern fourni par l'utilisateur.
 On a testé comme deuxiéme pattern les fichiers qui commencent par un A et comme résultat on a eu les fichiers textes (.txt) et qui contiennent des mots qui commencent par un A
+Voici notre exemple:
+![capture](https://github.com/samia97/MoSEF-Projet-2019/blob/master/captures-screen/capture.PNG)
 
 
 # Exécution du script : ./search_fichiers.sh.
