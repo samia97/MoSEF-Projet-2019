@@ -8,7 +8,7 @@ Dans notre exemple on s'est mis sur home/sorbonne et cherché les fichiers qui f
 On a ajouté une autre condition dans notre script , pour améliorer notre filtre , qui va nous afficher uniquement les fichiers qui contiennent un 2ème pattern fourni par l'utilisateur.
 On a testé comme deuxiéme pattern les fichiers qui commencent par un A et comme résultat on a eu les fichiers textes (.txt) et qui contiennent des mots qui commencent par un A
 Voici notre exemple:
-![capture](https://github.com/samia97/MoSEF-Projet-2019/blob/master/captures-screen/capture.PNG)
+![capture](/captures-screen/capture.PNG)
 
 
 # Exécution du script : ./search_fichiers.sh.
